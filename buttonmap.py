@@ -134,7 +134,7 @@ button_positions_evo_omni = {
 def overlay_text(img, button_number, actions, positions):
     if button_number in positions:
         base_x, base_y = positions[button_number]  # Store the base position for each button
-        line_height = 20  # Space between lines
+        line_height = 10  # Space between lines
 
         for i, action in enumerate(actions):
             y_offset = base_y + i * line_height  # Calculate y position for each line
