@@ -4,7 +4,7 @@ buttonmap.py: Is a simple tool to read button mappings from StarCitizen and plac
 
 get_positions.py: This script opens up an image so that you can click on where you want to text to occur for the images within buttonmap.py. 
 
-Usage: Download the zip and unzip it, install python3, copy your keybinds file as layout.xml into the same director as the script, run the script (python3 ./buttonmap.py)
+Usage: Download the zip and unzip it, install python3, copy your keybinds file as layout.xml into the same directory as the script, run the script (python3 ./buttonmap.py)
 
 Example output:
 ![EVO_OMNI_annotated](https://github.com/user-attachments/assets/49401474-4d1c-4714-9d2f-0735c34578ad)
